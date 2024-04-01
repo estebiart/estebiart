@@ -10,10 +10,11 @@
 ## Frameworks
 <p align="left">  
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=angular&svgfill=dd1b16">
  </p>
  
 <!--
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=angular&svgfill=cd6799">
+
 <a href="https://github.com/harish-sethuraman/readme-components">
 </a>
 <a href="https://github.com/harish-sethuraman/readme-components">
@@ -64,6 +65,7 @@
 
 <p align="left">  
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=4b8bbe">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=php&svgfill=787CB5">
 <!--
  <a href="https://github.com/harish-sethuraman/readme-components">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
@@ -72,7 +74,7 @@
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=659b60">
 </a>
 <a href="https://github.com/harish-sethuraman/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=php&svgfill=659b60">
+
 </a>
 <a href="https://github.com/harish-sethuraman/readme-components">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=laravel&svgfill=659b60">
