@@ -3,7 +3,7 @@
 
 
 
-# Últimas Publicaciones en Medium
+# Medium
 <!-- MEDIUM_FEED_START -->
 <!-- MEDIUM_FEED_END -->
 
