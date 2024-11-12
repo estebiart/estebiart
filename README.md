@@ -9,10 +9,7 @@
 
 # Frontend Technologies
 <p align="left"> 
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
   </p>
   
@@ -73,8 +70,10 @@
 # Backend Technologies
 
 <p align="left">  
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=3c873a">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=4b8bbe">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=php&svgfill=787CB5">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=5382a1">
 <!--
  <a href="https://github.com/harish-sethuraman/readme-components">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
@@ -91,7 +90,13 @@
   -->
 </p>
 
-
+## Frameworks
+<p align="left">  
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=laravel&svgfill=dd1b16">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=django&svgfill=092e20">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=spring&svgfill=3c873a">
+ </p>
+ 
 <!--
 ## My Skills 💻
 
