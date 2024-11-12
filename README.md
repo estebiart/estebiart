@@ -1,8 +1,9 @@
 
-# Portfolio
-<a href="https://estebiart.github.io/">https://estebiart.github.io/</a>
+# Portfolio: [https://estebiart.github.io/](https://estebiart.github.io/)
 
-## Últimas Publicaciones en Medium
+
+
+# Últimas Publicaciones en Medium
 <!-- MEDIUM_FEED_START -->
 <!-- MEDIUM_FEED_END -->
 
