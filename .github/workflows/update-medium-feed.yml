@@ -2,7 +2,7 @@ name: Update Medium Feed
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *' # Ejecuta cada día a medianoche
 
 jobs:
   update-feed:
@@ -13,13 +13,19 @@ jobs:
 
       - name: Fetch Medium RSS Feed
         run: |
-          curl -s "https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@tuusuario" > medium-feed.json
+          curl -s "https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@estebiart" > medium-feed.json
 
-      - name: Update README with Medium Posts
+      - name: Generate Medium Feed Content
         run: |
           echo "## Últimas Publicaciones en Medium" > medium-posts.md
           cat medium-feed.json | jq -r '.items[] | "\n- [\(.title)](\(.link)) - \(.pubDate)"' >> medium-posts.md
-          sed -i '/<!-- MEDIUM_FEED_START -->/,/<!-- MEDIUM_FEED_END -->/c\<!-- MEDIUM_FEED_START -->\n\n'$(<medium-posts.md)'\n\n<!-- MEDIUM_FEED_END -->' README.md
+
+      - name: Update README with Medium Posts
+        run: |
+          # Lee el contenido de medium-posts.md en una variable
+          MEDIUM_POSTS=$(<medium-posts.md)
+          # Reemplaza el marcador de posición en README.md usando sed
+          sed -i "/<!-- MEDIUM_FEED_START -->/,/<!-- MEDIUM_FEED_END -->/c\<!-- MEDIUM_FEED_START -->\n${MEDIUM_POSTS}\n<!-- MEDIUM_FEED_END -->" README.md
 
       - name: Commit Changes
         run: |
