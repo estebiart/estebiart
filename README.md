@@ -3,9 +3,9 @@
 
 
 
-# Medium
+
 <!-- MEDIUM_FEED_START -->
-## Últimas Publicaciones en Medium
+## Medium
 
 - [¿Cómo Resolver Problemas Comunes con Closures? Ejemplos en Java, TypeScript y Más](https://medium.com/@estebiart/c%C3%B3mo-resolver-problemas-comunes-con-closures-ejemplos-en-java-typescript-y-m%C3%A1s-6a54def62788?source=rss-df815fe1b32a------2) - 2024-11-12 03:10:36
 <!-- MEDIUM_FEED_END -->
