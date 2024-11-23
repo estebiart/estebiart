@@ -7,6 +7,8 @@
 <!-- MEDIUM_FEED_START -->
 ## Últimas Publicaciones en Medium
 
+- [Guía Completa de Almacenamiento Local en el Navegador: Tipos, Usos y Cómo Implementarlos](https://medium.com/@estebiart/gu%C3%ADa-completa-de-almacenamiento-local-en-el-navegador-tipos-usos-y-c%C3%B3mo-implementarlos-09af64840af1?source=rss-df815fe1b32a------2) - 2024-11-22 22:29:06
+
 - [Guía Rápida: Comparativa de Librerías de Estado en React para Proyectos de Todos los Tamaños](https://medium.com/@estebiart/gu%C3%ADa-r%C3%A1pida-comparativa-de-librer%C3%ADas-de-estado-en-react-para-proyectos-de-todos-los-tama%C3%B1os-e350775010ac?source=rss-df815fe1b32a------2) - 2024-11-19 14:11:46
 
 - [¿Cómo Resolver Problemas Comunes con Closures? Ejemplos en Java, TypeScript y Más](https://medium.com/@estebiart/c%C3%B3mo-resolver-problemas-comunes-con-closures-ejemplos-en-java-typescript-y-m%C3%A1s-6a54def62788?source=rss-df815fe1b32a------2) - 2024-11-12 03:10:36
